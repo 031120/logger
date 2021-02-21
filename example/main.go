@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/031120/gin"
-	"github.com/gin-contrib/logger"
+	"github.com/031120/logger"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 )
