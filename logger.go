@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/gin-gonic/gin"
+	"github.com/031120/gin"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 )

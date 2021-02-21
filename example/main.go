@@ -6,8 +6,8 @@ import (
 	"regexp"
 	"time"
 
+	"github.com/031120/gin"
 	"github.com/gin-contrib/logger"
-	"github.com/gin-gonic/gin"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 )
